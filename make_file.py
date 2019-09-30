@@ -1,5 +1,6 @@
 """
 主にhaisaresu氏の詰連珠をPDF化させるために作成。
+具体的なパスは自分の環境に合わせて直書きする必要がある。
 参考
 - https://qiita.com/meznat/items/31d947ed4826350fd9fa
 - PILの参考ページ
